@@ -1,0 +1,10 @@
+body {
+    background: orange;
+    font-family: 'Courier New', Courier, monospace;
+
+    padding: 0px 0.65rem;
+}
+
+h1 {
+    color: blue
+}
